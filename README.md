@@ -6,4 +6,9 @@ OpenGrm <a href= "http://www.openfst.org/twiki/bin/view/GRM/Pynini">Pynini</a>, 
 <h3>Note</h3>
 Pynini can be used in Text Normalization Problems.This examples only demostrates how to use some build-in functions of pynini and it does not contain any information on how to create the necessary files for using it with a particular language.
 
+<h3>References</h3>
+Gorman, K. 2016. Pynini: A Python library weighted finite-state grammar compilation. In Proceedings of the ACL Workshop on Statistical NLP and Weighted Automata, pages 75-80.
 
+Schulz, K., and Mihov, S. 2002. Fast string correction with Levenshtein-automata. International Journal of Document Analysis and Recognition 5(1): 67-85.
+
+Wagner, R. A., and Fischer, M. J. 1974. The string-to-string correction problem. Journal of the ACM 21(1): 168-173.
