@@ -4,7 +4,7 @@ OpenGrm <a href= "http://www.openfst.org/twiki/bin/view/GRM/Pynini">Pynini</a>, 
 
 
 <h3>Note</h3>
-Pynini can be used in Text Normalization Problems.This examples only demostrates how to use some build-in functions of pynini and it does not contain any information on how to create the necessary files for using it with a particular language.You should familiar with finite state transducers.Learn here <a href = "https://www.youtube.com/channel/UCsg4NhZjN7NZuJIjwea0njw">FST</a>
+Pynini can be used in Text Normalization Problems.This examples only demostrates how to use some build-in functions of pynini and it does not contain any information on how to create the necessary files for using it with a particular language.You should familiar with finite state transducers.Learn about FSTs here <a href = "https://www.youtube.com/channel/UCsg4NhZjN7NZuJIjwea0njw">FST</a>.
 
 <h3>References</h3>
 Gorman, K. 2016. Pynini: A Python library weighted finite-state grammar compilation. In Proceedings of the ACL Workshop on Statistical NLP and Weighted Automata, pages 75-80.
